@@ -1,10 +1,10 @@
 :root{ /*declaração de variáveis; PASSANDO O MOUSE EM CIMA DAS CORES VOCÊ CONSEGUE MUDÁ-LAS*/
     --cor-de-fundo: #1E1E1E; 
-    --verde: #6FFF57; 
+    --verde: #41279c; 
     --branco: #FFFFFF; 
-    --botao-ativo: #3A375E; 
-    --botao-inativo: rgba(58, 55, 94, 0.5); 
-    --texto-fundo: rgba(58, 55, 94, 0.3); 
+    --botao-ativo: #8077e4; 
+    --botao-inativo: rgba(162, 154, 247, 0.5); 
+    --texto-fundo: rgba(118, 106, 255, 0.3); 
 }
 body{ /*define estilização geral do conteúdo da página*/
     background-color: var(--cor-de-fundo); /*cor do fundo / var declara a variável criada em root*/
